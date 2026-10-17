@@ -8,7 +8,7 @@ The solution establishes dedicated Development, UAT and Production environments 
 
 A key consideration was to ensure that the platform could also accommodate future AI-enabled capabilities without requiring major infrastructure redesign.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 🎯 **Problem Statement**
 
@@ -27,7 +27,7 @@ The project therefore required an infrastructure solution capable of:
 
 The challenge was not simply to provision cloud resources, but to create a structured enterprise architecture capable of supporting the application’s future evolution.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 💡 **Solution Approach**
 
@@ -41,15 +41,16 @@ Supporting services for identity, security, monitoring and infrastructure automa
 
 This approach provides stronger isolation between components while allowing individual services to scale independently.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-Environment Strategy
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+**Environment Strategy**
 
 The infrastructure supports three major environments:
 Environment: 
   1. Dev- Application development and internal validation
   2. UAT- Business/user acceptance testing using production-like configurations
   3. Production- Live enterprise workload with enhanced security, monitoring and governance
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
 👨‍💼 **My Role & Contribution**
 
 From a Business Analysis / Solution Management perspective, my involvement focused on translating the business demand into a technically actionable infrastructure requirement.
